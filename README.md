@@ -1,6 +1,7 @@
 # My-own-Sonoff
 Modular PCB to imitate a Sonoff with enhanced connectivity
-![My-own-Sonoff(IMG_2042.JPG)
+![My-own-Sonoff](/IMG_2042.JPG)
+
 
 ## Goal
 I do like the Sonoff devices but had additional requirements, so I decided to create my own board that would allow the following:
