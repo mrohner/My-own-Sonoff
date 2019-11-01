@@ -1,6 +1,6 @@
 # My-own-Sonoff
 Modular PCB to imitate a Sonoff with enhanced connectivity
-
+![My-own-Sonoff(IMG_2042.JPG)
 
 ## Goal
 I do like the Sonoff devices but had additional requirements, so I decided to create my own board that would allow the following:
@@ -14,7 +14,7 @@ The PCB has space for:
 * AC/DC transformer 230V to 5V / 3W (0.6A) Hi-Link HLK-PM01
 * 5.5MM x 2.5MM Female DC socket for PCB (for 5V input)
 * up to 2 x Relais that will switch 230V SRD-05VDC-SL-C
-  - each require a PC817C optocopler, two 1K Ohm resistor SMD 0805, a J3Y or Y1 switching transistor SMD, red LED SMD 1206 and a 
+  - each requires a PC817C optocopler, two 1K Ohm resistors SMD 0805, a J3Y or Y1 switching transistor SMD, red LED SMD 1206 and a 
     T4 1N4148 SMD 0805 SOD 123 Switching Diode
 * a Wemos D1 mini
 * 1000uF capacitor to stabilize Wemos opration
